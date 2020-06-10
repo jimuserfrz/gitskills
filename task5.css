@@ -1,0 +1,132 @@
+
+header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 4.4rem;
+    background-color: #5fc0cd;
+    font-size: 1.8rem;
+    color: #ffffff;
+    line-height:1rem;
+    text-align: center;
+    background-image: url(task5-1_03.png);
+    background-repeat: no-repeat;
+    background-position: 3% 3%;
+}
+main {
+    position: absolute;
+    top: 4.4rem;
+    bottom: 5rem;
+    left: 0;
+    right: 0;
+    overflow: auto;
+}
+.profile-wrap {
+    width: 100%;
+    height: 16.3rem;
+    background-image: url(images/background_02.png);
+    background-size: cover;
+   
+}
+.profile {
+    margin: 0;
+}
+.profile-picture img {
+    float: left;
+    margin-left: 1.5rem;
+    margin-top: 3.7rem;
+}
+.profile-info {
+    display: inline-block;
+    margin-left: 0;
+    margin-top: 4.5rem;
+    color: #fff;
+}
+.profile-info-items span:last-child {
+    font-size: 1.4rem;
+}
+.profile-local {
+    font-size: 1.2rem;
+}
+.profile-local i {
+    color: #5fc0cd;
+}
+.skilss-wrap {
+    font-size: 1.6rem;
+    overflow: hidden;
+    width: 100%;
+}
+.skilss-wrap > div {
+    width: 100%;
+    border-bottom: 1px solid #e5eced; 
+}
+.skills-header {
+    position: relative;
+    padding-left: 3rem;
+    line-height: 5rem;
+}
+.skills-header::before {
+    
+    position: absolute;
+    top: 1.3rem;
+    left: 1.5rem;
+    width: 0.4rem;
+    height: 2rem;
+    background-color: #5fc0cd;
+    content: " ";
+}
+.skills-items i {
+    color: red;
+}
+.skills-items {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    display: flex;
+    padding-left: 1.5rem;
+    align-items: center;
+}
+.skills-items-thead {
+    flex-shrink: 0;
+    color: #999;
+}
+.splitline {
+    display: inline-block;
+    width: 0.2rem;
+    height: 2rem;
+    margin: 0.1rem;
+    background-color: #e5eced;
+    flex-shrink: 0;
+}
+.info {
+    line-height: 3rem;
+}
+.redtext {
+    color: red;
+}
+footer {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 5rem;
+    background-color: #fff;
+    justify-content: space-around;
+    align-items: center;
+}
+footer button {
+    width: 43%;
+    height: 42px;
+    border: 2px solid #5fc0cd;
+    border-radius: 8px;
+    background-color: #fff;
+    font-size: 1.8rem;
+    color: #5fc0cd;
+}
+.telephone {
+    background-color: #5fc0cd;
+    color: #fff;
+}

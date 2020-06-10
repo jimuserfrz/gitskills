@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1628721_1y52aik1mmn.eot?t=1580907552393'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1628721_1y52aik1mmn.eot?t=1580907552393#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANcAAsAAAAABwgAAAMPAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqBXIFgATYCJAMMCwgABCAFhG0HSRs5BhHVk9tkf4B4bA6FSpsZHetiaJknHsXwdkeyxzfNd8K7BVSBKFAFAAAAAATPf/v9fp+ZuYKa15eApJJYNLJZozT75uknE8/X//9Tb/J+Jm2BDboWbg1hNGDBVHu8VmwNYuUJG3AUQcAT7Ru8OTWXGrblFSCZsP+PxkSbZsorQzlF7goAndz8one46DWTkigIuRogQDb41M0f5+0FGmdvXfSbagsEnNuXVgjqPs/l9K4BFMj8QLnMMZ6PCZhgoHtgFEggbZAEvWHsApdwGgL4k6yQdL6MFMgYrEkCyJy/FiDnQhgMy7oIds1KA9kFXLWpa0CxE35fvoIyGSgsDWumb4LsIP4gH3xavc8nEM/nANg60EAhMCADtal+CGEMjb+KtRfbGAQ1V/TvhSJdYdt/eKAQEBtWZSAAuSit4MPGFaXqPZTc9UkaABswQAMYxdJFjr0V5a/a4YurljOT26IpFVwIxii7vwfG0Hv32cX7D/cmJ2fv4ePDh/O6/9Xhuu/cgTze5rh395pwPdvm+3kv3vaZv0M+vIN/+uZCznms76B/8uUv6wRP8vUVd4/vjLs0kDV3Q3CpK+N2YsAoOrcW/9H82XAT0cpDGyuK0o/FwtdFfMqfwQIA73QFtyqAblbvH/0bHn+pz8q6/w8MAE/q56lhyDujf9pFARP/VnHPDqNLLbM2qsgVmR5NzsikAvx1Lx7LF+7FeF3UrWcEl6gUCockaFwySUMvhEUAlbBxaYE/BXrWBxBhHkKMAsi3BCCEOoAimMvQhLpOGvpzWET7DpvQCP70ym7HALLjvX5kbAR7aK/gO5qNYxUdVX+jjWPDWWnI/EdefRSKNC9mX3FGnmPOerKliAHDNMELOA/HkWBhCthJ6kSWY5aZuiulHU1Kq0fGRrCH9gq+o9n4/UWXPv+NNo4Nt9TUeP+RVz84FGneg3xVzb1q7uWS9WRLEQOGaYIX4MDRThEs9cMCdpK6EYnlmKFepq8qXV8zfUAha8DalzY8RxyDPsfgG7r42W4ltsmCm/O3SBO1zZwoBQA=') format('woff2'),
+  url('//at.alicdn.com/t/font_1628721_1y52aik1mmn.woff?t=1580907552393') format('woff'),
+  url('//at.alicdn.com/t/font_1628721_1y52aik1mmn.ttf?t=1580907552393') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1628721_1y52aik1mmn.svg?t=1580907552393#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wujiaoxing:before {
+  content: "\e614";
+}
+
+.icon-tubiaozhizuomoban-:before {
+  content: "\e601";
+}
+
